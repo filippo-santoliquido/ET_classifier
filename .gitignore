@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+
+GWFish_results
+clf_ET/measured_values_v1
+clf_ET/test_catalogs_v1
